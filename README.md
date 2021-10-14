@@ -24,5 +24,5 @@ Our working is shown in our named directories
   - ChentianZ/Exploring Cybersec Attacks.ipynb
   - MohammedA/Android Malware Analysis.ipynb
 
-We worked on all reports together in person for the most part. However, Chentian contributed more to exploring_cybersec_attacks.ipynb and Mohammed
-contributed more to android_malware_analysis.ipynb.
+We worked on all reports together in person for the most part. However, Chentian contributed more to "Exploring Attacks Cybersec.ipynb" and Mohammed
+contributed more to "Android Malware Analysis.ipynb".
